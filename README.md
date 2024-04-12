@@ -1,6 +1,6 @@
 # Ninkyo-Dantai-II-Tanpen
 
-Ninkyo Dantai II - The Manual and wiki can be found here
+Ninkyo Dantai II Tanpen - The Manual and wiki can be found here
 
 ## Why the move?
 
