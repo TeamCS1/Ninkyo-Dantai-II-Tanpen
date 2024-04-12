@@ -10,6 +10,6 @@ Development of Ninkyo Dantai II has moved to Unity 3D 2022 LTS. This is because 
 
 The old project can be found here https://github.com/TeamCS1/Ninkyo-Dantai-II-Legacy
 
-# Development Manual
+## Development Manual
 
 The development manual can be found under Wikis.
